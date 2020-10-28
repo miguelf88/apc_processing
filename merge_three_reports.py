@@ -246,7 +246,7 @@ route_long_name = {
     20: '20 - NW Pleasant Ridge',
     21: '21 - NE Chimney Rock',
     22: '22 - SW Sandy Ridge',
-    23: '23 - SW Piedmont Parkway',
+    23: '23 - SE Piedmont Parkway',
     27: '27 - Airport Area',
     28: '28 - West Forsyth Express'
 }
